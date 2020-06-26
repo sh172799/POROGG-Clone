@@ -1,0 +1,10 @@
+@import "reset.css";
+@import "game-list-bar.css";
+
+body{
+    background-color: #222222;
+}
+
+a{
+    text-decoration: none;
+}
