@@ -1,0 +1,66 @@
+.main .main__content{
+    margin-top: 24px;
+    margin-left: 381px;
+    margin-right: 381px;
+}
+
+.m-content__tier{
+    margin-bottom: 17px;
+}
+
+.m-content__tier .ver{
+    font-weight: 700;
+}
+
+.champ__tier{
+    align-items:center;
+}
+
+.champ__tier .top{
+    width: 222px;
+    height: 216px;
+    border: 1px solid #e6e6e6;
+    background-color: white;
+}
+
+.champ__tier .top-box{
+    background-color: #f0f0f0;
+    height: 40px;
+    font-size: 14px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.top-box .top-icon{
+    width: 14px;
+    height: 14px;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+
+.bottom-box{
+    padding: 8px 8px 24px 8px;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+.bottom-box .champ{
+    margin: 16px 6px 0px 6px;
+    position: relative;
+}
+
+.bottom-box .champ-img img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.bottom-box .champ-name{
+    margin-top: 4px;
+    color: gray;
+    font-size: 12px;
+}

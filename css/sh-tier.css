@@ -1,0 +1,42 @@
+.big-sh-tier{
+    background-image: url(../images/qiyana-sh3.png);
+    background-size: cover;
+}
+
+.big-sh-tier .bst-container{
+    text-align: center;
+    margin: 0px 381px;
+    padding: 0px 15px;
+}
+
+.bst-container .bst-content{
+    margin: 0px 230px;
+    padding-top: 90px;
+    padding-bottom: 120px;
+}
+
+.bst-content .main-search{
+    margin-top: 24px;
+    padding: 0px 16px;
+    height: 52px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.bst-content .main-search input{
+    width: 93%;
+    height: 50px;
+    padding: 0;
+    font-size: 12px;
+    outline: none;
+    border: none;
+}
+
+.bst-content .main-search button{
+    background-color: white;
+    font-size: 20px;
+    color: #ed6767;
+    border: none;
+    outline: none;
+    vertical-align: text-top;
+}

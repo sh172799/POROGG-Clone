@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300:400;700&display=swap');
 @import "reset.css";
 @import "game-list-bar.css";
-@import "valorant.css";
+@import "pg-header.css";
+@import "sh-tier.css";
+@import "main-content.css";
 
 *{
     box-sizing: border-box;
@@ -8,6 +11,7 @@
 
 body{
     background-color: #F5F5F5;
+    height: 1000vh;
 }
 
 a{

@@ -2,6 +2,8 @@
     display: flex;
     background-color: #3A3F4C;
     justify-content: space-between;
+    position: fixed;
+    width: 100%;
 }
 
 .game-list{
@@ -9,7 +11,6 @@
     font-size: 12px;
     margin-left: 380px;
 }
-
 
 .game-list-bar .game-list li,
 .game-list-bar .locale{
@@ -79,7 +80,7 @@
     margin-right: 60px;
 }
 
-.locale span,i{
+.locale a{
     font-size: 12px;
     color: white;
 }

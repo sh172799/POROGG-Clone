@@ -1,0 +1,309 @@
+.pg-header{
+    padding-top: 46px;
+    background-color: #323641;
+}
+
+.pg-header .pg-lg-sh{
+    display: flex;
+    color: white;
+    justify-content: space-between;
+    margin-left: 420px;
+    margin-right: 395px;
+    margin-top: 58px;
+    padding-bottom: 25px;
+}
+
+.pg-lg-sh .pg-logo span{
+    font-size: 28px;
+}
+
+.pg-lg-sh .pg-logo img{
+    vertical-align: bottom;
+    margin-right: 10px;
+}
+
+.pg-header .pg-search{
+    background-color: #FFFFFF;
+    width: 260px;
+    justify-content: space-between;
+    border-radius: 5px;
+}
+
+.pg-header .pg-search input,
+.pg-header .pg-search button{
+    font-size: 12px;
+    padding: 0;
+    border: none;
+    outline: none;
+}
+
+.pg-header .pg-search button{
+    padding-left: 8px;
+    background-color: #FFFFFF;
+}
+
+.pg-header .pg-search input{
+    width: 220px;
+    height: 32px;
+    padding-left: 8px;
+    border-radius: 5px;
+}
+
+.pg-header .pg-search i{
+    font-size: 14px;
+    color: #ed6767;
+}
+
+.pg-header .pg-maplist{
+    display: flex;
+    background-color: #323641;
+}
+
+.pg-header .pg-maplist{
+    padding-left: 420px;
+    font-size: 16px;
+}
+
+.pg-header .pg-maplist li{
+    color: white;
+    padding: 10px 15px 15px 15px;
+    align-content: center;
+}
+
+.pg-maplist .active{
+    background-color: #23262D;
+}
+
+.pg-maplist .ha a:link{
+    color: #a0a0a0;
+}
+
+.pg-maplist .ha a:visited{
+    color: #a0a0a0;
+}
+
+.pg-maplist .ha a:hover{
+    color: #fff;
+}
+
+.pg-maplist .ha a:active{
+    color: #fff;
+}
+
+.pg-maplist .urf a:link{
+    color: orange;
+}
+
+.pg-maplist .urf a:visited{
+    color: orange;
+}
+
+.pg-maplist .urf a:hover{
+    color: #ffcc6f;
+}
+
+.pg-maplist .urf a:active{
+    color: #ffcc6f;
+}
+
+.pg-maplist .lor a:link{
+    color: #adff2f;
+}
+
+.pg-maplist .lor a:visited{
+    color: #adff2f;
+}
+
+.pg-maplist .lor a:hover{
+    color: #d7ff9b;
+}
+
+.pg-maplist .lor a:active{
+    color: #d7ff9b;
+}
+
+.pg-maplist .tft a:link{
+    color: #a0a0a0;
+}
+.pg-maplist .tft i{
+    font-size: 11px;
+    vertical-align: top;
+    margin: 2px 0px 0px 2px;
+}
+.pg-maplist .tft a:visited{
+    color: #a0a0a0;
+}
+
+.pg-maplist .tft a:hover{
+    color: #fff;
+}
+
+.pg-maplist .tft a:active{
+    color: #fff;
+}
+
+.pg-header .menu{
+    display: flex;
+    background-color: #23262D;
+}
+
+.pg-header .menu{
+    padding-left: 420px;
+}
+
+.pg-header .menu li{
+    color: #d6d6d6;
+    padding: 18px;
+}
+
+.menu .bar{
+    border-left: 2px solid #6a6a6a;
+    height: 15px;
+    margin-top: 18px;
+}
+
+.menu .champ a:link{
+    color: #a0a0a0;
+    padding-bottom: 3px;
+}
+
+.menu .champ a:visited{
+    color: #a0a0a0;
+    padding-bottom: 3px;
+}
+
+.menu .champ a:hover{
+    color: #fff;
+    padding-bottom: 3px;
+    border-bottom: 2px solid #fff;
+}
+
+.menu .champ a:active{
+    color: #fff;
+    padding-bottom: 3px;
+    border-bottom: 2px solid #fff;
+}
+.menu .champ-tier a:link{
+    color: #a0a0a0;
+    padding-bottom: 3px;
+}
+
+.menu .champ-tier a:visited{
+    color: #a0a0a0;
+    padding-bottom: 3px;
+}
+
+.menu .champ-tier a:hover{
+    color: #fff;
+    padding-bottom: 3px;
+    border-bottom: 2px solid #fff;
+}
+
+.menu .champ-tier a:active{
+    color: #fff;
+    padding-bottom: 3px;
+    border-bottom: 2px solid #fff;
+}
+
+.menu .master-rank a:link{
+    color: #a0a0a0;
+    padding-bottom: 3px;
+}
+
+.menu .master-rank a:visited{
+    color: #a0a0a0;
+    padding-bottom: 3px;
+}
+
+.menu .master-rank a:hover{
+    color: #fff;
+    padding-bottom: 3px;
+    border-bottom: 2px solid #fff;
+}
+
+.menu .master-rank a:active{
+    color: #fff;
+    padding-bottom: 3px;
+    border-bottom: 2px solid #fff;
+}
+
+.menu .player-rank a:link{
+    color: #a0a0a0;
+    padding-bottom: 3px;
+}
+
+.menu .player-rank a:visited{
+    color: #a0a0a0;
+    padding-bottom: 3px;
+}
+
+.menu .player-rank a:hover{
+    color: #fff;
+    padding-bottom: 3px;
+    border-bottom: 2px solid #fff;
+}
+
+.menu .player-rank a:active{
+    color: #fff;
+    padding-bottom: 3px;
+    border-bottom: 2px solid #fff;
+}
+
+.menu .bookmark a:link{
+    color: #a0a0a0;
+    padding-bottom: 3px;
+}
+
+.menu .bookmark a:visited{
+    color: #a0a0a0;
+    padding-bottom: 3px;
+}
+
+.menu .bookmark a:hover{
+    color: #fff;
+    padding-bottom: 3px;
+    border-bottom: 2px solid #fff;
+}
+
+.menu .bookmark a:active{
+    color: #fff;
+    padding-bottom: 3px;
+    border-bottom: 2px solid #fff;
+}
+
+.menu .multi-search a:link{
+    color: #a0a0a0;
+    padding-bottom: 3px;
+}
+
+.menu .muliu-search a:visited{
+    color: #a0a0a0;
+    padding-bottom: 3px;
+}
+
+.menu .multi-search a:hover{
+    color: #fff;
+    padding-bottom: 3px;
+    border-bottom: 2px solid #fff;
+}
+
+.menu .multi-search a:active{
+    color: #fff;
+    padding-bottom: 3px;
+    border-bottom: 2px solid #fff;
+}
+
+.pg-header .notice{
+    font-size: 14px;
+    background-color: #5b4ba5;
+    color: #fff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 420px;
+}
+
+.pg-header .notice i{
+    font-size: 14px;
+    color: #fff;
+    padding-left: 15px;
+}
